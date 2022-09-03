@@ -9,3 +9,6 @@ def test_2():
 
 def test_4242():
     assert 4 > 2
+
+def test_3():
+    assert 5 > 2
